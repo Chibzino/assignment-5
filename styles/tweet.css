@@ -1,0 +1,343 @@
+.section {
+    padding-bottom: 10rem;
+}
+
+.uber {
+    float: left;
+    margin-right: 7%;
+}
+
+.amazo {
+    float: left;
+    margin-right: 7%;
+}
+
+.github {
+    float: left;
+}
+
+.request-button {
+    color: white;
+    background-color: black;
+    padding: 0.5rem 1.5rem;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.request-button:hover {
+    opacity: 0.7;
+}
+
+.request-button:active {
+    opacity: 0.5;
+}
+
+.ub {
+    margin-bottom: 0.5rem;
+}
+
+.ama {
+    margin-bottom: 0.5rem;
+}
+
+.gi {
+    margin-bottom: 0.5rem;
+}
+
+.add-button {
+    background-color: rgb(255, 216, 20);
+    border: none;
+    border-radius: 2rem;
+    cursor: pointer;
+    transition: opacity 0.15s;
+    padding: 0.5rem 4rem
+}
+
+.add-button:hover {
+    opacity: 0.7;
+}
+
+.add-button:active {
+    opacity: 0.4;
+}
+
+.sign-button {
+    background-color: rgba(46, 164, 79);
+    border: none;
+    padding: 0.5rem 1.1rem;
+    border-radius: 0.3rem;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.15s, color 0.15s, opacity 0.15s;
+}
+
+.sign-button:hover {
+    background-color: rgb(66, 209, 162);
+    color: black;
+}
+
+.sign-button:active {
+    opacity: 0.4;
+}
+
+.bootstrap {
+    float: left;
+    margin-right: 5%;
+}
+
+.linkedln {
+    float: left;
+}
+
+.get-button {
+    padding-right: 1rem;
+    background-color: rgb(121, 82, 179);
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.2rem;
+    color: white;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+
+.get-button:hover {
+    opacity: 0.7;
+}
+
+.get-button:active {
+    opacity: 0.4;
+}
+
+.download-button {
+    background-color: white;
+    color: rgb(108, 117, 125);
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.2rem;
+    border: 0.1rem solid rgb(108, 117, 125);
+    cursor: pointer;
+    transition: background-color 0.15s, color 0.15s;
+}
+
+.download-button:hover {
+    background-color: rgb(108, 117, 125);
+    color: white;
+}
+
+.download-button:active {
+    opacity: 0.7;
+}
+
+.apply-button {
+    background-color: rgb(10, 102, 194);
+    padding: 0.5rem 4.2rem;
+    border: none;
+    border-radius: 2rem;
+    color: white;
+    cursor: pointer;
+}
+
+.apply-button:hover {
+    background-color: rgb(184, 223, 235);
+    color: blue;
+}
+
+.apply-button:active {
+    opacity: 0.5;
+}
+
+.save-button {
+    background-color: white;
+    padding: 0.5rem 1rem;
+    border: 0.1rem;
+    border-radius: 2rem;
+    color: rgb(10, 102, 194);
+    border-style: solid;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.15s, color 0.15s;
+}
+
+.save-button:hover {
+    background-color: rgb(168, 189, 209);
+    color: white;
+}
+
+.save-button:active {
+    opacity: 0.4;
+}
+
+.amazon {
+    color: rgb(0, 113, 133);
+    cursor: pointer;
+    transition: color 0.15s;
+}
+
+.amazon:hover {
+    color: red;
+}
+
+.amazon:active {
+    opacity: 0.4;
+}
+
+.nike {
+    padding-top: 1rem;
+}
+
+.price {
+    color: rgb(0, 118, 0);
+    cursor: pointer;
+}
+
+.add {
+    background-color: rgb(255, 216, 20);
+    border-radius: 2rem;
+    cursor: pointer;
+    border: none;
+    padding: 0.5rem 1.3rem;
+    margin-right: 1rem;
+    transition: box-shadow 0.15s;
+}
+
+.add:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+
+.buy {
+    background-color: rgb(255, 164, 28);
+    border-radius: 2rem;
+    cursor: pointer;
+    border: none;
+    padding: 0.5rem 1.3rem;
+    transition: box-shadow 0.15s;
+}
+.buy:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+.add-buy{
+    margin-bottom: 2rem;
+}
+.subscribe-button{
+    background-color: #b10505;
+    padding: 0.5rem 1rem;
+    border: none;
+    border-radius: 0.2rem;
+    color: white;
+    cursor: pointer;
+    transition: opacity 0.15s;
+    margin-right: 0.3rem;
+
+}
+    
+.subscribe-button:hover {
+    opacity: 0.7;
+}
+    
+.subscribe-button:active {
+        opacity: 0.4;
+}
+.join-button{
+    background-color: white ;
+    padding: 0.4rem 0.8rem;
+    border: 0.1rem solid rgb(41, 118, 211) ;
+    border-radius: 0.2rem;
+    color: rgb(41, 118, 211);
+    cursor: pointer;
+    transition:  background-color 0.15s, color 0.15s;
+    margin-right: 0.3rem;
+}
+    
+.join-button:hover {
+    background-color: rgb(41, 118, 211);
+    color: white;
+}
+    
+.join-button:active {
+        opacity: 0.4;
+}
+.tweet-button{
+    background-color: rgb(41, 118, 211) ;
+    padding: 0.5rem 0.8rem;
+    border:  none;
+    border-radius: 1rem;
+    color: white;
+    cursor: pointer;
+    transition:  background-color 0.15s, color 0.15s;
+    transition: box-shadow 0.15s;
+}
+    
+.tweet-button:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+}
+.subjoin{
+    margin-bottom: 2rem ;
+}
+.back-button{
+    padding: 0.6rem 0.6rem;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    transition:  background-color 0.15s, color 0.15s;
+    margin-right: 0.3rem;
+    font-weight: bold;
+}
+.back-button:hover{
+    background-color: rgb(230, 224, 224) 
+}
+.next-button{
+    padding: 0.6rem 0.6rem;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    transition:  background-color 0.15s, color 0.15s;
+    margin-right: 0.3rem;
+    font-weight: bold;
+}
+.next-button:hover{
+    background-color: rgb(230, 224, 224) 
+}
+.ref{
+    margin-right: 1rem;
+    font-weight: bold;
+}
+.ref:hover{
+    background-color:rgb(230, 224, 224);
+}
+.pagination{
+    margin-bottom: 2rem;
+}
+.stretch-shadow{
+    margin-bottom: 2rem;
+}
+.streshad-button{
+    background-color: green;
+    padding: 0.8rem 1.5rem;
+    border: none;
+    border-radius: 0.2rem;
+    color: white;
+    cursor: pointer;
+    transition: background-colour 0.15s;
+    margin-right: 3rem;
+    font-size: large;
+
+}
+    
+.streshad-button:hover {
+    background-color: green;
+    letter-spacing: 0.1rem;
+}
+    
+.shadow{
+    background-color: green;
+    padding: 0.8rem 1.5rem;
+    border: none;
+    border-radius: 0.2rem;
+    color: white;
+    cursor: pointer;
+    transition: shadow 0.15s;
+    margin-right: 3rem;
+    font-size: large;
+}
+.shadow:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.25);
+    letter-spacing: 0.1rem;
+}
